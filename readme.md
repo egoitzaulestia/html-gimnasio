@@ -55,5 +55,3 @@ Enlaces
 [Pexels](https://www.pexels.com/ "Pexels")
 
 [Pixabay](https://pixabay.com/ "Pixabay")
-# html-gimnasio
-# html-gimnasio
